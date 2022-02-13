@@ -1,7 +1,8 @@
-package com.svetlana.learn.composition
+package com.svetlana.learn.composition.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.svetlana.learn.composition.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
